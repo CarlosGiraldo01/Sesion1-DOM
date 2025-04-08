@@ -52,14 +52,14 @@ console.log(miDiv)*/
  * 8. Ver el efecto en el navegador
  */
 
-/*let direccion = document.querySelector('#enlace')
+let direccion = document.querySelector('#enlace')
 console.log(enlace.getAttribute("href"));
 enlace.setAttribute("href", "https://www.icesi.edu.co")
 enlace.innerText = "Universidad ICESI"
 enlace.setAttribute("target","_blanck")
 direccion.setAttribute("class", "boton")
 direccion.removeAttribute("class")
-console.log(direccion);*/
+console.log(direccion);
 
 // 2.5 Cambiar el estilo del div
 /**

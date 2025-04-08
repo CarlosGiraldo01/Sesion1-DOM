@@ -7,9 +7,9 @@
  */
 
 /*(cambio titulo)*/
-/*let titulo = document.querySelector('#titulo')
+let titulo = document.querySelector('#titulo')
 titulo.innerText = "papa"
-console.log(titulo);*/
+console.log(titulo);
 
 /*let titulo = document.querySelector('#titulo')
 console.log(titulo);*/
